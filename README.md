@@ -1,1 +1,1 @@
-Graduate coursework for JHU 605.647 Applied Machine Learning. 
+Graduate coursework for JHU 705.601 Applied Machine Learning. 
